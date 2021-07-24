@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algorithm_5", "algorithm_5\algorithm_5.vcxproj", "{CCB9BCD4-B9E3-4B2E-AA7F-4C33C5EC4262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB9BCD4-B9E3-4B2E-AA7F-4C33C5EC4262}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCB9BCD4-B9E3-4B2E-AA7F-4C33C5EC4262}.Debug|Win32.Build.0 = Debug|Win32
+		{CCB9BCD4-B9E3-4B2E-AA7F-4C33C5EC4262}.Release|Win32.ActiveCfg = Release|Win32
+		{CCB9BCD4-B9E3-4B2E-AA7F-4C33C5EC4262}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
